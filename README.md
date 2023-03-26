@@ -1,5 +1,7 @@
 # Aurorum-Studio/DDos-Attack-py3
 
+A new update is on the way.
+
 ## Introduce to this project:
 This is a single-file script writes in python 3 to accomplish ddos attack. DDos attack is a kind of hack attack that is usually used to crash the target server by sending it too much useless data. You can run this script on any devices with python 3 installed. It's very simple to use, the command would be introduced in the following part. Give me a star if you like this project.
 
